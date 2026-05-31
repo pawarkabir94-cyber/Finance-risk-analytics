@@ -15,9 +15,7 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 ### Tech/Functions Used:
 * `VLOOKUP`, `INDEX / MATCH`, `IFERROR`, Conditional Formatting, Financial Ratio Analysis.
 
-#### Model Dashboard Preview:
-![Credit Analysis Dashboard](./credit-analysis.png)
-
+#### Model Dashboard Preview: (https://1drv.ms/i/c/29a1dd9cd7d5d27d/IQBG6uJVQbW7Q556pG7aalhmAUmJOv2yMkQwv_9aEm6bey0?e=ldvIII)
 👉 **[Click here to download the Excel workbook](./Credit_Analysis_Model.xlsx)**
 
 ---
@@ -33,7 +31,5 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 ### Tech/Functions Used:
 * Excel Data Tables, Data Analysis Toolpak, `SUMPRODUCT`, `OFFSET`, Dynamic Charts.
 
-#### Model Dashboard Preview:
-![Stress Testing Dashboard](./stress-test.png)
-
+#### Model Dashboard Preview: (https://1drv.ms/i/c/29a1dd9cd7d5d27d/IQDnRIyFpU-wS74SDr_cEcI4AVi2d0jzB-64oxB27TGXJ8M?e=CDGSp6)
 👉 **[Click here to download the Excel workbook](./Market_Stress_Testing_Framework.xlsx)**
