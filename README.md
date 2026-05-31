@@ -15,7 +15,10 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 ### Tech/Functions Used:
 * `VLOOKUP`, `INDEX / MATCH`, `IFERROR`, Conditional Formatting, Financial Ratio Analysis.
 
-👉 **[Click here to view/download the Excel workbook](./Credit_Analysis_Model.xlsx)**
+#### Model Dashboard Preview:
+![Credit Analysis Dashboard](./credit-analysis.png)
+
+👉 **[Click here to download the Excel workbook](./Credit_Analysis_Model.xlsx)**
 
 ---
 
@@ -30,11 +33,7 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 ### Tech/Functions Used:
 * Excel Data Tables, Data Analysis Toolpak, `SUMPRODUCT`, `OFFSET`, Dynamic Charts.
 
-👉 **[Click here to view/download the Excel workbook](./Market_Stress_Testing_Framework.xlsx)**
+#### Model Dashboard Preview:
+![Stress Testing Dashboard](./stress-test.png)
 
----
-
-## Professional Credentials & Contact
-* **Education:** Bachelor of Commerce in Accounting & Finance (BAF)
-* **Credentials:** Financial Risk Manager (FRM) Candidate | NSE Derivatives Market Module Certified
-* **Connect:** [https://www.linkedin.com/in/kabir-pawar-1a58912b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]# Finance-risk-analytics
+👉 **[Click here to download the Excel workbook](./Market_Stress_Testing_Framework.xlsx)**
