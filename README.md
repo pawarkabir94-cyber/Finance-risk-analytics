@@ -15,7 +15,8 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 ### Tech/Functions Used:
 * `VLOOKUP`, `INDEX / MATCH`, `IFERROR`, Conditional Formatting, Financial Ratio Analysis.
 
-#### Model Dashboard Preview: (https://1drv.ms/i/c/29a1dd9cd7d5d27d/IQBG6uJVQbW7Q556pG7aalhmAUmJOv2yMkQwv_9aEm6bey0?e=ldvIII)
+#### Model Dashboard Preview:
+![Credit Analysis Dashboard](https://1drv.ms/i/c/29a1dd9cd7d5d27d/IQBG6uJVQbw7Q556pG7aalhmAUmJ0v2yMkQwv_9aEm6bey0?e=ldvIII)
 👉 **[Click here to download the Excel workbook](./Credit_Analysis_Model.xlsx)**
 
 ---
