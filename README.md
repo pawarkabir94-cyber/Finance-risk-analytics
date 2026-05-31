@@ -19,7 +19,7 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 
 ![Credit Analysis Dashboard](./Screenshot%202026-05-31%20132906.png)
 
-👉 **[Click here to download the Excel workbook](./Credit_Analysis_Model.xlsx)**
+👉 **[Click here to download the Excel workbook](https://1drv.ms/x/c/29a1dd9cd7d5d27d/IQDYrZR6P_gRRovi6g0ikjhEAWvS8ELuaTAKS_pDIMZFadY?e=taJBPB)**
 
 ---
 
@@ -38,4 +38,4 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 
 ![Stress Testing Dashboard](./stress-test.png)
 
-👉 **[Click here to download the Excel workbook](./Market_Stress_Testing_Framework.xlsx)**
+👉 **[Click here to download the Excel workbook](https://1drv.ms/x/c/29a1dd9cd7d5d27d/IQDg0QiUMsXWSJg8TQ-kqAgKAedTQuiWUDbTeVdx8iptapE?e=7BZx8r)**
