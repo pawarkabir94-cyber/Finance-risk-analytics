@@ -15,8 +15,10 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 ### Tech/Functions Used:
 * `VLOOKUP`, `INDEX / MATCH`, `IFERROR`, Conditional Formatting, Financial Ratio Analysis.
 
-#### Model Dashboard Preview:
-![Credit Analysis Dashboard](https://1drv.ms/i/c/29a1dd9cd7d5d27d/IQBG6uJVQbw7Q556pG7aalhmAUmJ0v2yMkQwv_9aEm6bey0?e=ldvIII)
+#### Model Dashboard Preview:<img width="1166" height="863" alt="Screenshot 2026-05-31 131711" src="https://github.com/user-attachments/assets/6d259f41-553a-465c-bb5a-cb2415deba6a" />
+
+![Credit Analysis Dashboard](./Screenshot%202026-05-31%20132906.png)
+
 👉 **[Click here to download the Excel workbook](./Credit_Analysis_Model.xlsx)**
 
 ---
@@ -32,5 +34,8 @@ Welcome to my portfolio. This repository contains advanced financial modeling pr
 ### Tech/Functions Used:
 * Excel Data Tables, Data Analysis Toolpak, `SUMPRODUCT`, `OFFSET`, Dynamic Charts.
 
-#### Model Dashboard Preview: (https://1drv.ms/i/c/29a1dd9cd7d5d27d/IQDnRIyFpU-wS74SDr_cEcI4AVi2d0jzB-64oxB27TGXJ8M?e=CDGSp6)
+#### Model Dashboard Preview:<img width="1388" height="863" alt="Screenshot 2026-05-31 131742" src="https://github.com/user-attachments/assets/ad529bb1-3c5a-4e17-a718-e2f3b9edf919" />
+
+![Stress Testing Dashboard](./stress-test.png)
+
 👉 **[Click here to download the Excel workbook](./Market_Stress_Testing_Framework.xlsx)**
